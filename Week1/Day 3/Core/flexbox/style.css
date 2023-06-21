@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+#col1{
+    width:1500px;
+    height:200px;
+    background-color: rgb(28, 194, 254);
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    align-items: center;
+}
+
+img{
+    width:200px;
+    height:150px;
+}
+
+#col2{
+    width:1500px;
+    height:200px;
+    background-color:pink;   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#col3{
+    width:1500px;
+    height:200px;
+    background-color:white;   
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    
+}
+
