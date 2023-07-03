@@ -75,18 +75,24 @@ h2{
 }
 span{
     position: relative;
-    left: 450px;
+    left: 400px;
     bottom: 45px;
+    top: 25px;
+    /* right: 40px; */
 }
 button{
     background-color: yellow;
     height: 35px;
     width: 50px;
+    margin-left: 500px;
+    position: relative;
+    bottom: 60px;
 }
 h3{
     font-size: large;
     position: relative;
     bottom: 50px;
+    left: 20px;
 }
 p{
     font-size: larger;
